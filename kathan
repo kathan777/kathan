@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>image,map,audio,video in html</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+        
+
+      <a  href="https://silveroakuni.ac.in/" > <i class="fa-solid fa-download" style="font-size:70px ; color: rgb(2, 51, 11);"></i></a><br><hr>
+      <a href="https://www.youtube.com/"><i class="fa-brands fa-youtube" style="font-size:100px ; color: rgb(233, 28, 28);"></i></a><br><hr>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/wuBYQn5bQis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><hr>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14680.487885871054!2d72.53230235000001!3d23.09263045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1669618987784!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br><hr>
+      <audio src="C:\Users\student\Downloads\Tu-Aake-Dekhle---King(PaglaSongs).mp3"></audio>
+      <a href="https://www.facebook.com/" style="font-size: 90px;color: rgb(10, 10, 113);"><i class="fa-brands fa-facebook"></i></a><br><hr><br>
+     <a href="C:\Users\student\Downloads\Tu-Aake-Dekhle---King(PaglaSongs).mp3"> <i class="fa-solid fa-music" style="font-size: 100px;color: darkred;"></i></a>
+    </body>
+</html>
